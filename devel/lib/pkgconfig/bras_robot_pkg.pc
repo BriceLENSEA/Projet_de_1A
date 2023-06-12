@@ -1,0 +1,8 @@
+prefix=/home/ensea/bras_robot_ws/devel
+
+Name: bras_robot_pkg
+Description: Description of bras_robot_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
